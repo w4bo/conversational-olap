@@ -20,12 +20,12 @@ Installing Java 14 and checking if the tests pass
 
 Running the validator with the sequential scan of synonyms
 
-    git pull; ./gradlew runValidatorSequential
+    ./gradlew runValidatorSequential
 
 
 Running the validator with the BKtree scan of synonyms
 
-    git pull; ./gradlew runValidator
+    ./gradlew runValidator
 
 Enabling the web application
 
