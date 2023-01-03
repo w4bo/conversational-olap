@@ -1,3 +1,21 @@
+## [1.0.1](https://github.com/w4bo/conversational-olap/compare/1.0.0...1.0.1) (2023-01-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.2.2 ([8a9f0ed](https://github.com/w4bo/conversational-olap/commit/8a9f0edb5d139a4d7f7a0663397e3715f2518c4f))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.2.0 ([#138](https://github.com/w4bo/conversational-olap/issues/138)) ([b77dc46](https://github.com/w4bo/conversational-olap/commit/b77dc46031eff90d273743a32e2265aed841ef33))
+* **deps:** update actions/setup-java action to v3.9.0 ([8f85f18](https://github.com/w4bo/conversational-olap/commit/8f85f18614bbbdc556e9824e41e889160987040d))
+
+
+### Dependency updates
+
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.8.0 ([3e498e8](https://github.com/w4bo/conversational-olap/commit/3e498e8ba960569b35f9f926d37241c6fd74bb0b))
+
 ## 1.0.0 (2022-12-13)
 
 
