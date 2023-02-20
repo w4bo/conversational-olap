@@ -1,3 +1,21 @@
+## [1.0.8](https://github.com/w4bo/conversational-olap/compare/1.0.7...1.0.8) (2023-02-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.antlr:antlr4 to v4.12.0 ([d39abf8](https://github.com/w4bo/conversational-olap/commit/d39abf8ed082b2be8c188afd0d4b527c782b8d78))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.10.0 ([322ce7d](https://github.com/w4bo/conversational-olap/commit/322ce7dca60352f2b2d0cf1fcc574194f180a98e))
+
+
+### Dependency updates
+
+* **deps:** update node.js to 18.14 ([f3e0cb7](https://github.com/w4bo/conversational-olap/commit/f3e0cb7cf08fb3df69bf7815522574937b7776e4))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.8.10 ([b4ac495](https://github.com/w4bo/conversational-olap/commit/b4ac49540f60eaf655dfe82bc257a080eabbbdb1))
+
 ## [1.0.7](https://github.com/w4bo/conversational-olap/compare/1.0.6...1.0.7) (2023-02-01)
 
 
