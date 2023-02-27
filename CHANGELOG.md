@@ -1,3 +1,15 @@
+## [1.0.9](https://github.com/w4bo/conversational-olap/compare/1.0.8...1.0.9) (2023-02-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20230227 ([443ef1a](https://github.com/w4bo/conversational-olap/commit/443ef1a9c91054861a1bbe76d760306aadf8fa32))
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v7.6.1 ([00abe08](https://github.com/w4bo/conversational-olap/commit/00abe083610f03a0f3b6500b5bdb7f4ee3b9e147))
+
 ## [1.0.8](https://github.com/w4bo/conversational-olap/compare/1.0.7...1.0.8) (2023-02-20)
 
 
