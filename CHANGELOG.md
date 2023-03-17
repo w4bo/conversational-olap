@@ -1,3 +1,21 @@
+## [1.0.11](https://github.com/w4bo/conversational-olap/compare/1.0.10...1.0.11) (2023-03-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.7 ([b13b283](https://github.com/w4bo/conversational-olap/commit/b13b283482e57c95b0676b41faa6ccbd8e0b8b1f))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.4.0 ([48e6bfd](https://github.com/w4bo/conversational-olap/commit/48e6bfd213d764237abfaec42fc06d40d493cede))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.17 ([2504f7f](https://github.com/w4bo/conversational-olap/commit/2504f7f0d498d053945796490f1a02b4aa0a8e47))
+* **deps:** update node.js to 18.15 ([2fc5637](https://github.com/w4bo/conversational-olap/commit/2fc5637390e5af33719cde9f6df87302e8b9dc16))
+
 ## [1.0.10](https://github.com/w4bo/conversational-olap/compare/1.0.9...1.0.10) (2023-02-28)
 
 
