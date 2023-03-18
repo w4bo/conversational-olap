@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/w4bo/conversational-olap/compare/1.0.11...1.0.12) (2023-03-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-log4j12 to v2.0.7 ([1a7fcfd](https://github.com/w4bo/conversational-olap/commit/1a7fcfd8d0ca8f873442dd6e9489429d7bcccfba))
+
 ## [1.0.11](https://github.com/w4bo/conversational-olap/compare/1.0.10...1.0.11) (2023-03-17)
 
 
