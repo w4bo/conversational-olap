@@ -1,3 +1,29 @@
+## [1.0.14](https://github.com/w4bo/conversational-olap/compare/1.0.13...1.0.14) (2023-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mysql:mysql-connector-java to v8.0.33 ([79e5a25](https://github.com/w4bo/conversational-olap/commit/79e5a25d4a0ae70c3706a3a4209d0e0a5d51c9b2))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.20 ([999e93c](https://github.com/w4bo/conversational-olap/commit/999e93c735210317ed36b32fe5dbffd5fdf25cdb))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.21 ([e363be4](https://github.com/w4bo/conversational-olap/commit/e363be42aea076cdce71d0e40527dc1b3aeb1750))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.22 ([8086ba5](https://github.com/w4bo/conversational-olap/commit/8086ba5d6aedd83079da0c8731c7f9decabda27e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.24 ([9406652](https://github.com/w4bo/conversational-olap/commit/9406652fbd1a62ee0aff29da5feb9f06e728d3f3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.25 ([98d60e0](https://github.com/w4bo/conversational-olap/commit/98d60e077e74cc8c660d9bb350eed901e15055e0))
+* **deps:** update node.js to 18.16 ([d0c944e](https://github.com/w4bo/conversational-olap/commit/d0c944e5b2bf1e7864258819732e00dfc34840e8))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.8.20 ([1118f96](https://github.com/w4bo/conversational-olap/commit/1118f96e2137e0cdb06ec1e5f5813ef933c984c2))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.5.0 ([7b69d36](https://github.com/w4bo/conversational-olap/commit/7b69d360630da0e12c44a835da37ff18c00d4a1e))
+* **deps:** update actions/checkout action to v3.5.1 ([e192f1f](https://github.com/w4bo/conversational-olap/commit/e192f1f7bc0c95f829d5a3bed13475cc8cfa42d9))
+* **deps:** update actions/checkout action to v3.5.2 ([1d0b366](https://github.com/w4bo/conversational-olap/commit/1d0b36672d519a536cdd5ce56de4992f256adea8))
+* **deps:** update actions/setup-java action to v3.11.0 ([94ed0fb](https://github.com/w4bo/conversational-olap/commit/94ed0fbefaea6ece73b2d393e1e9395dadc848ff))
+
 ## [1.0.13](https://github.com/w4bo/conversational-olap/compare/1.0.12...1.0.13) (2023-03-21)
 
 
