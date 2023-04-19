@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/w4bo/conversational-olap/compare/1.0.14...1.0.15) (2023-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.0 ([ce7c116](https://github.com/w4bo/conversational-olap/commit/ce7c116fdcde85fda77f3d43d0b2635de4730885))
+
 ## [1.0.14](https://github.com/w4bo/conversational-olap/compare/1.0.13...1.0.14) (2023-04-19)
 
 
