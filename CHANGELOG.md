@@ -1,3 +1,15 @@
+## [1.0.18](https://github.com/w4bo/conversational-olap/compare/1.0.17...1.0.18) (2023-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.4 ([bce76ef](https://github.com/w4bo/conversational-olap/commit/bce76efe7708b372d721c73302fbd63b7edd9b86))
+
+
+### Dependency updates
+
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.8.21 ([73f69ff](https://github.com/w4bo/conversational-olap/commit/73f69ff94f789db1b72ad43de9c28bbba28a2755))
+
 ## [1.0.17](https://github.com/w4bo/conversational-olap/compare/1.0.16...1.0.17) (2023-04-24)
 
 
