@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/w4bo/conversational-olap/compare/1.0.18...1.0.19) (2023-04-26)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.9.3 ([1c1397c](https://github.com/w4bo/conversational-olap/commit/1c1397cc26219a556fa5c2003eabf4312e9a3587))
+
 ## [1.0.18](https://github.com/w4bo/conversational-olap/compare/1.0.17...1.0.18) (2023-04-25)
 
 
