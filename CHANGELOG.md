@@ -1,3 +1,15 @@
+## [1.0.20](https://github.com/w4bo/conversational-olap/compare/1.0.19...1.0.20) (2023-05-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.jgrapht:jgrapht-core to v1.5.2 ([b5ccb6c](https://github.com/w4bo/conversational-olap/commit/b5ccb6c39cac9b1e8855669f15c391f3cea1118c))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.26 ([1a96dce](https://github.com/w4bo/conversational-olap/commit/1a96dce76c4f2865762c73a6c8b17be2729bf575))
+
 ## [1.0.19](https://github.com/w4bo/conversational-olap/compare/1.0.18...1.0.19) (2023-04-26)
 
 
